@@ -1,3 +1,12 @@
+/data/basketball.yolov8/
+/data/basketball.yolov8-augmented/
+/data/basketball.yolov8-combined/
+
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
