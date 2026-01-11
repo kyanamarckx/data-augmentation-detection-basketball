@@ -1,1 +1,1 @@
-# data-augmentation-detection-basketball
+# :basketball: Data augmentation in basketball games
