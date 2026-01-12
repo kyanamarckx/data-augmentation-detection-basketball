@@ -1,2 +1,2 @@
-dataset,mAP50,mAP50-95,Precision,Recall,Fitness,Preprocess_ms,Inference_ms,Postprocess_ms
+Dataset,mAP50,mAP50-95,Precision,Recall,Fitness,Preprocess_ms,Inference_ms,Postprocess_ms
 base,0.7965221119307867,0.49286190665443713,0.8464221475243083,0.7664244390577178,0.49286190665443713,2.5052119999963907,14.8176400000375,0.674512000005052
