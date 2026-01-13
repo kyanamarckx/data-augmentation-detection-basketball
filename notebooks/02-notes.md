@@ -1,4 +1,4 @@
-# :basketball: Train base dataset
+# :basketball: Notes and conclusions of `02-trainBase.ipynb`
 
 ## Dataset
 The dataset used in this notebook can be found in `data/basketball.yolov8`.
