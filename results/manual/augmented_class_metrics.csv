@@ -1,0 +1,28 @@
+Dataset,Class,mAP50,mAP50-95,Precision,Recall
+geometric,Ball,0.326,0.195,0.782,0.2
+geometric,Hoop,0.885,0.585,0.862,0.833
+geometric,Period,0.974,0.548,0.942,0.851
+geometric,Player,0.856,0.574,0.898,0.835
+geometric,Ref,0.783,0.501,0.86,0.781
+geometric,Shot Clock,0.839,0.425,0.982,0.722
+geometric,Team Name,0.842,0.578,0.83,0.917
+geometric,Team Points,0.911,0.606,0.793,0.905
+geometric,Time Remaining,0.941,0.577,1,0.761
+color,Ball,0.359,0.218,0.843,0.25
+color,Hoop,0.892,0.624,0.933,0.773
+color,Period,0.971,0.554,1,0.774
+color,Player,0.859,0.555,0.874,0.841
+color,Ref,0.769,0.478,0.771,0.787
+color,Shot Clock,0.759,0.408,0.793,0.778
+color,Team Name,0.925,0.623,1,0.873
+color,Team Points,0.946,0.634,0.871,0.889
+color,Time Remaining,0.949,0.533,0.955,0.889
+kernel,Ball,0.352,0.189,0.957,0.25
+kernel,Hoop,0.922,0.598,0.942,0.897
+kernel,Period,0.977,0.572,1,0.776
+kernel,Player,0.865,0.564,0.879,0.841
+kernel,Ref,0.775,0.503,0.804,0.787
+kernel,Shot Clock,0.744,0.439,0.644,0.778
+kernel,Team Name,0.934,0.634,0.851,0.917
+kernel,Team Points,0.938,0.614,0.763,0.974
+kernel,Time Remaining,0.965,0.587,0.761,0.944
